@@ -6,8 +6,7 @@
 
 	}
 .box:hover{
-		transform:rotate(-90deg);/*transform 可以实现旋转、缩放、移动transform:translate(120px,0);、倾斜skew(20deg)属性操作
+		transform:rotate(-90deg) translate(320px,550px) scale(0.5,0.5) skew(20deg);/*transform 可以实现旋转rotate(-90deg)、缩放scale(0.5,0.5)、移动transform:translate(120px,0);、倾斜skew(20deg)属性操作
 		rotate：旋转属性、deg：旋转单位*/
-		transform:skew(20deg);
-		transform:translate(120px,0);
+		
 	}
