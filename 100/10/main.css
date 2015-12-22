@@ -1,0 +1,43 @@
+/*
+.css{
+	width: 100px;
+	height: 100px;
+	background-color: #22B8DD;
+	margin: 50px 50px;
+	transition:all 1s;
+	}
+
+.css.smalle{
+	width: 150px;
+	height: 100px;
+	background-color: #66EEEE;
+	margin: 50px 50px;
+	transform:scale(2,2);
+	-ms-transform:scale(2,2); 	/* IE 9 */ 
+/*	-moz-transform:scale(2,2);;	/* Firefox */
+/*	-webkit-transform:scale(2,2);; /* Safari 和 Chrome */
+/*	-o-transform:scale(2,2);; 	/* Opera */
+
+/*	transform-origin:50% 50%； 
+	-ms-transform-origin:50% 50%; 	/* IE 9 */
+/*	-moz-transform-origin:50% 50% ;	/* Firefox */
+/*	-webkit-transform-origin:50% 50%; /* Safari 和 Chrome */
+/*	-o-transform-origin:50% 50%; 	/* Opera */ /*
+}*/
+
+.dox{
+	width: 300px;
+	
+	background-color: #22bbdd;
+
+	position: fixed;
+	bottom: 0;
+	top:0;
+	transition:all 1s;
+	transform:translateX(0%);
+}
+
+.dox.smalle{
+	background-color: #66eeee;
+	transform:translateX(-95%);
+}
