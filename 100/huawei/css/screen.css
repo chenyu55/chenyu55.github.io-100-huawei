@@ -33,17 +33,4 @@ body{
  .nav {
  	padding-top: 0.5em;
  }
-.icon-reorder{
-	margin-left: 1em;
-	display: block;
-	
- }
- .icon-list{
-	margin-left: 1em;
-	transform-origin:50% 50%;/*调整中心基点*/
-	-ms-transform-origin:50% 50%; /* IE 9 */
-	-webkit-transform-origin:50% 50%; /* Safari and Chrome */
-	-moz-transform-origin:50% 50%; /* Firefox */
-	-o-transform-origin:50% 50%; /* Opera */
- }
- 
+
