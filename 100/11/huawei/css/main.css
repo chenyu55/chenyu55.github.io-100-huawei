@@ -1,0 +1,18 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.dox{
+	background-color: #808080;
+	width: 100%;
+
+}
+.shang{
+	background-color: #fff;
+}
+.logo{
+	width: 200px;
+	height: 47px;
+	text-align: center;
+	padding-left: 50px;
+	}

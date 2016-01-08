@@ -1,0 +1,23 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing:border-box;
+}
+body{
+	font-size: 62.5%;
+}
+
+.shang{
+	width: 100%;
+	height: 20px;
+	background-color: #0288d1;
+	
+}
+.kuang{
+	width: 100%;
+	height: 140px;
+	background-color: #009df3;
+ }
+ .kuang .icon-reorder{
+ 	padding-left: 
+ }
